@@ -1,0 +1,46 @@
+body {
+     background-color:#334155;
+}
+
+nav {
+  width: 60%;
+  margin: 40px auto;
+  background-color: #1877F2;
+  border-radius: 12px;
+  padding: 14px 0;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 16px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  opacity: 0.6;
+}
+
+.posters {
+  text-align: center;  
+  margin: 30px auto;
+}
+
+.welcome-text {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.posters img {
+  width: 200px;        
+  margin: 0 10px;      
+  border-radius: 8px;  
+}
+
+footer {
+    color: white;
+}
