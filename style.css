@@ -28,6 +28,17 @@ nav a:hover {
   margin: 30px auto;
 }
 
+.page {
+  color: white;
+  font-size: 20px;
+}
+
+.page ol {
+  max-width: 700px;
+  margin: 20px auto;
+  line-height: 1.8;
+}
+
 .welcome-text {
   font-size: 32px;
   font-weight: bold;
@@ -43,4 +54,32 @@ nav a:hover {
 
 footer {
     color: white;
+}
+
+.camera-img {
+  float: right;        
+  width: 200px;        
+  margin: 10px;        
+}
+
+.founders {
+  text-align: center;    
+}
+
+.founder {
+  display: inline-block;
+  width: 30%;            
+  margin: 10px 1%;       
+  vertical-align: top;  
+}
+
+.founder img {
+  width: 100%;           
+  border-radius: 8px;    
+}
+
+.founder p {
+  font-weight: bold;
+  margin-top: 6px;
+  color: aliceblue;
 }
